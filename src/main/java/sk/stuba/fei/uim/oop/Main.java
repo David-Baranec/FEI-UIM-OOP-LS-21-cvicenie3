@@ -27,5 +27,6 @@ public class Main {
 
         System.out.println(auto.getStavNadrze());
         System.out.println(auto.currentState());
+        System.out.println("pokus1");
     }
 }
